@@ -1,6 +1,6 @@
-# Getting Started with My technical test in Fusion Talent
+# Getting Started with My technical test in Autogermana
 
-This project is the tecnical test of Fusion Talent
+This project is the tecnical test of Autogermana
 
 ## Available Scripts
 
